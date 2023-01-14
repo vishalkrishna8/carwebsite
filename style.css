@@ -21,7 +21,7 @@ header {
     background-position: center center;
     color: rgb(44, 33, 29);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: flex-start;
     min-height: calc(100vh, 102px);
 }
