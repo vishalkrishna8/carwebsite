@@ -78,7 +78,7 @@ footer {
 }
 
 footer ul {
-    display: flex;
+    display: grid;
     align-items: center;
     justify-content: space-between;
     list-style-type: none;
