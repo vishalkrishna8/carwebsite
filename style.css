@@ -101,7 +101,7 @@ footer p {
     }
 
     nav ul {
-        flex-direction: column;
+        flex-direction: row;
 
     }
 
