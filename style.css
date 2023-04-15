@@ -115,7 +115,7 @@ footer p {
 
     footer ul {
         flex-direction: column;
-        justify-content: right;
+        justify-content: center;
     }
 
     footer li {
