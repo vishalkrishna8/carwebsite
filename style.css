@@ -18,7 +18,7 @@ body {
 header {
     background-image: url("carnew.jpg");
     background-size: cover;
-    background-position: center center;
+    background-position: center right;
     color: rgb(44, 33, 22);
     display: flex;
     flex-direction: column;
