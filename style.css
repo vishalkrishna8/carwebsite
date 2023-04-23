@@ -22,7 +22,7 @@ header {
     color: rgb(44, 33, 22);
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
+    align-items: flex-start;
     min-height: calc(100vh, 102px);
 }
 
