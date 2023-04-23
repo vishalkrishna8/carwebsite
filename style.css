@@ -38,7 +38,7 @@ header {
 }
 
 nav {
-    display: flex;
+    display: grid;
     justify-content: space-between;
     /* padding-inline: 1rem; */
 }
